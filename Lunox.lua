@@ -81,7 +81,7 @@ local TS = game:GetService("TweenService")
 local HTTPS = game:GetService("HttpService")
 
 --// Loader
-local baseUrl = "http://localhost:3000/" --"https://raw.githubusercontent.com/danisty/legostuff/master/Lunox/"
+local baseUrl = "https://raw.githubusercontent.com/danisty/lunox/main/"
 local main, modulesInfo = LunoxData or {
 	modules={}
 }, {
